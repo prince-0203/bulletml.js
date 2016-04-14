@@ -11,6 +11,7 @@ Modules
  - bulletml.js ... BulletMLをJavaScriptで読み込んでいろいろやるためのライブラリ。
  - bulletml.enchant.js ... enchant.jsでBulletMLを利用するためのプラグイン。
  - tmlib.bulletml.js ... tmlib.jsでBulletMLを利用するためのプラグイン。
+ - phina.bulletml.js ... phina.jsでBulletMLを利用するためのプラグイン。
 
 Download
 ========
